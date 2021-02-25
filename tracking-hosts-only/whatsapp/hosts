@@ -1,12 +1,13 @@
-# Nimityx/blocklist/tracking-hosts-only/whatsapp/hosts
-#
-# https://github.com/Nimityx/blocklist
+# Title: Nimityx' Whatsapp tracking hosts blocklist
+# Homepage: https://github.com/Nimityx/blocklist
+# Author: Nimityx | https://github.com/Nimityx
 # License: MIT
-# Last Updated: February 9th 2021 08:33 UTC
+# Last Updated: February 25th 2021 03:52 UTC
 # Contact: c93c81b9-b581-4651-89fc-a416fd69558e [at] anonaddy.me
 
 # More hosts on https://github.com/Nimityx/WhatsappSpyBlocker
 
+0.0.0.0 graph.whatsapp.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 graph.whatsapp.net
 0.0.0.0 crashlogs.whatsapp.net
